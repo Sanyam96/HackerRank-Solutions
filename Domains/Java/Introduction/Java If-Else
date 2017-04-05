@@ -1,0 +1,36 @@
+    import java.io.*;
+    import java.util.*;
+    import java.text.*;
+    import java.math.*;
+    import java.util.regex.*;
+
+    public class Solution {
+
+        public static void main(String[] args) {
+
+            Scanner sc=new Scanner(System.in);
+            int N=sc.nextInt();            
+            String ans="";
+            if(N%2==1){
+              ans = "Weird";
+            }
+            else if( (N >= 2 && N <= 5) && (N % 2 == 0) )
+            {
+                //cout << "Not Weird" << endl;
+                ans = "Not Weird";   
+            }
+            else if( (N >= 6 && N <= 20) && (N % 2 == 0) )
+            {
+                ans = "Weird";
+                //cout << "Weird" << endl;   
+            }
+            else if( (N >= 20 ) && (N % 2 == 0) )
+            {
+                ans = "Not Weird";
+                //cout << "Not Weird" << endl;   
+            }
+            System.out.println(ans);
+            
+        }
+    }
+
