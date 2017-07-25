@@ -1,5 +1,5 @@
 # HackerRank-Solutions
 
-This Repository contains solutions of HackerRank Problems and HackerRank Domain Problems
+This Repository contains solutions of HackerRank Practice and Compete Problems
 
-Programs are mostly in C / C++ / Java Languages.
+Program solutions are mostly in C / C++ / Java Languages.
