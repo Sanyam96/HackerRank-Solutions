@@ -1,3 +1,6 @@
+/*
+Program of Hackerrank Solution Domains>C++>Strings>Strings.cpp
+*/
 #include <iostream>
 #include <string>
 using namespace std;
