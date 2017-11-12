@@ -1,3 +1,6 @@
+/*
+	Append and Delete Hackerank program implementation in C++
+*/
 #include <iostream>
 #include <algorithm>
 
