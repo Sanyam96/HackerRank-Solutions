@@ -1,3 +1,6 @@
+/*
+	Angry professor Challenge
+*/
 #include <cmath>
 #include <cstdio>
 #include <vector>

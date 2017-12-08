@@ -1,5 +1,5 @@
 /*
-	Append and Delete Hackerank program implementation in C++
+	Append and Delete Hackerankp rogram implementation in C++
 */
 #include <iostream>
 #include <algorithm>
